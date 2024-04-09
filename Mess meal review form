@@ -1,0 +1,143 @@
+<html>
+<head>
+<title>
+</title>
+<body>
+<h1>MESS MEAL REVIEW FORM</h1>
+<form>
+EMAIL: <input type="text">
+<br>
+<br>
+NAME: <input type="text">
+<br>
+<br>
+YEAR : <input type="text">
+<br>
+<br>
+BREAKFAST
+<br>
+<input type="radio"name="breakfast"value="good">GOOD
+<br>
+<input type="radio"name="breakfast"value="average">AVERAGE
+<br>
+<input type="radio"name="breakfast"value="poor">POOR
+
+
+<br>
+<br>
+LUNCH
+<br>
+<input type="radio"name="lunch"value="good">GOOD
+<br>
+<input type="radio"name="lunch"value="average">AVERAGE
+<br>
+<input type="radio"name="lunch""value="poor">POOR
+<br>
+<br>
+EVENING SNACKS
+<br>
+<input type="radio"name="evening snacks"value="good">GOOD
+<br>
+<input type="radio"name="evening snacks"value="average">AVERAGE
+<br>
+<input type="radio"name="evening snacks""value="poor">POOR
+
+<br>
+<br>
+DINNER
+<br>
+<input type="radio"name="dinner"value="good">GOOD
+<br>
+<input type="radio"name="dinner"value="average">AVERAGE
+<br>
+<input type="radio"name="dinner""value="poor">POOR
+<br>
+<br>
+CLEANLINESS
+<br>
+<input type="radio"name="cleaness"value="good">GOOD
+<br>
+<input type="radio"name="cleaness value""value="bad">BAD
+<br>
+<br>
+<p>REMARKS:</P>
+<textarea ROWS="10"COLS="30">
+</textarea>
+<br>
+<br>
+<input name="submit"value="                 SUBMIT">
+</form>
+<body>
+</html>
+</head><html>
+<head>
+<title>
+</title>
+<body>
+<h1>MESS MEAL REVIEW FORM</h1>
+<form>
+EMAIL: <input type="text">
+<br>
+<br>
+NAME: <input type="text">
+<br>
+<br>
+YEAR : <input type="text">
+<br>
+<br>
+BREAKFAST
+<br>
+<input type="radio"name="breakfast"value="good">GOOD
+<br>
+<input type="radio"name="breakfast"value="average">AVERAGE
+<br>
+<input type="radio"name="breakfast"value="poor">POOR
+
+
+<br>
+<br>
+LUNCH
+<br>
+<input type="radio"name="lunch"value="good">GOOD
+<br>
+<input type="radio"name="lunch"value="average">AVERAGE
+<br>
+<input type="radio"name="lunch""value="poor">POOR
+<br>
+<br>
+EVENING SNACKS
+<br>
+<input type="radio"name="evening snacks"value="good">GOOD
+<br>
+<input type="radio"name="evening snacks"value="average">AVERAGE
+<br>
+<input type="radio"name="evening snacks""value="poor">POOR
+
+<br>
+<br>
+DINNER
+<br>
+<input type="radio"name="dinner"value="good">GOOD
+<br>
+<input type="radio"name="dinner"value="average">AVERAGE
+<br>
+<input type="radio"name="dinner""value="poor">POOR
+<br>
+<br>
+CLEANLINESS
+<br>
+<input type="radio"name="cleaness"value="good">GOOD
+<br>
+<input type="radio"name="cleaness value""value="bad">BAD
+<br>
+<br>
+<p>REMARKS:</P>
+<textarea ROWS="10"COLS="30">
+</textarea>
+<br>
+<br>
+<input name="submit"value="                 SUBMIT">
+</form>
+<body>
+</html>
+</head>
