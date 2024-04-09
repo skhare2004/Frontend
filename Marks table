@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>
+</title>
+<body>
+<h1><i><font color="red">SCORE CARD</font></i></h1>
+<table border ="1">
+<tr>
+<th><b>SUB. CODE</b></th>
+<th><b>SUBJECT</b></th>
+<th><b>MARKS</b></th>
+</tr>
+<tr>
+<td><font color="green">101</font></td>
+<td><font color="green">PROGRAMMING IN C WITH DATA STRUCTURE</font></td>
+<td><font color="green">19/20</font></td>
+</tr>
+<tr>
+<td><font color="green">102</font></td>
+<td><font color="green">STATICAL MATHEMATICS</font></td>
+<td><font color="green">18/20</font></td>
+</tr>
+<tr>
+<td><font color="green">103</font></td>
+<td><font color="green">OPERATING SYSTEM AND ARCHITECTURE</font></td>
+<td><font color="green">19/20</font></td>
+</tr>
+<tr>
+<td><font color="green">104</font></td>
+<td><font color="green">INFORMATION TECHNOLOGY</font></td>
+<td><font color="green">19/20</font></td>
+</tr>
+<tr>
+<td><font color="green">105</font></td>
+<td><font color="green">COMMUNICATION SKILLS</font></td>
+<td><font color="green">19/20</font></td>
+</tr>
+</body>
+</head>
+</html>
