@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!--deatil and summary widget-->
+<details style="font-family:verdana;">
+<summary> web development </summary>
+
+<p>Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites.</p>
+
+<details>
+<summary> duration </summary>
+<h2>2.5 to 3 month</h2>
+</details>
+<details>
+<summary> prize</summary>
+<h2>6000/-</h2>
+</details>
+</details>
+</body>
+</html>
